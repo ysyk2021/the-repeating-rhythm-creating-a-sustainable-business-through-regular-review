@@ -1,4 +1,4 @@
-Chapter 9: Appendix: Templates and Tools for Conducting Reviews
+Templates and Tools for Conducting Reviews
 ===============================================================
 
 In this appendix, we provide templates and tools that businesses can use to conduct reviews as part of their sustainability strategy.

@@ -1,4 +1,4 @@
-Chapter 8: Conclusion: Summary of Key Points
+Summary of Key Points
 ============================================
 
 In this final chapter, we will provide a summary of the key points discussed in our book "The Repeating Rhythm: Creating a Sustainable Business Through Regular Review".

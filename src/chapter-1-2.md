@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Importance of Regular Review in Business Sustainability
+Importance of Regular Review in Business Sustainability
 ================================================================================
 
 In this chapter, we will introduce the concept of regular review and its importance in achieving business sustainability.

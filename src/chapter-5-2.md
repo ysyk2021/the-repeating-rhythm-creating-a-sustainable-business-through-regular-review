@@ -1,4 +1,4 @@
-Chapter 5: Implementing Changes Based on Reviews: Creating Action Plans
+Creating Action Plans
 =======================================================================
 
 In this chapter, we will explore the importance of creating action plans when implementing changes based on reviews to achieve business sustainability.

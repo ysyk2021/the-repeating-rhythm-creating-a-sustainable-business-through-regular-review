@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Purpose of the Book
+Purpose of the Book
 ============================================
 
 In this chapter, we will introduce the purpose of this book, which is to provide guidance on how businesses can achieve sustainability through regular review.

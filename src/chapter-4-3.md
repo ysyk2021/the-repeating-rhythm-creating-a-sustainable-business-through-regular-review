@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Reviews: Analyzing Data
+Analyzing Data
 =======================================================
 
 In this chapter, we will explore the importance of analyzing data as part of conducting effective reviews. Data analysis is a crucial component of regular review processes, as it provides insight into key performance indicators and areas for improvement.

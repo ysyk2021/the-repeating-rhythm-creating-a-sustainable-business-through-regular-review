@@ -1,4 +1,4 @@
-Chapter 7: Case Studies: Real-world Examples of Businesses That Have Successfully Implemented Regular Review
+Real-world Examples of Businesses That Have Successfully Implemented Regular Review
 ============================================================================================================
 
 In this chapter, we will explore real-world examples of businesses that have successfully implemented regular review as an ongoing process in achieving business sustainability.

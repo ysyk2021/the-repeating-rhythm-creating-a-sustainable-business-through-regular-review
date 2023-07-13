@@ -1,4 +1,4 @@
-Chapter 2: Understanding Business Sustainability: The Three Pillars of Sustainability
+The Three Pillars of Sustainability
 =====================================================================================
 
 In this chapter, we will explore the concept of the three pillars of sustainability, which provides a framework for understanding the dimensions of sustainability in business.

@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Reviews: Steps to Conducting a Review
+Steps to Conducting a Review
 =====================================================================
 
 In this chapter, we will explore the steps involved in conducting an effective review. Regular reviews are essential for creating sustainable business strategies and ensuring long-term success.

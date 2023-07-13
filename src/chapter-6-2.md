@@ -1,4 +1,4 @@
-Chapter 6: Maintaining the Rhythm: Overcoming Challenges
+Overcoming Challenges
 ========================================================
 
 In this chapter, we will explore some of the challenges that businesses may face when trying to maintain regular review as an ongoing process in achieving business sustainability and how to overcome them.

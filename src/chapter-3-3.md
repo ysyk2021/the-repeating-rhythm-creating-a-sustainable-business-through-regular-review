@@ -1,4 +1,4 @@
-Chapter 3: The Role of Regular Review in Business Sustainability: Metrics for Measuring Success
+Metrics for Measuring Success
 ===============================================================================================
 
 In this chapter, we will explore the importance of metrics for measuring success in achieving business sustainability through regular review.

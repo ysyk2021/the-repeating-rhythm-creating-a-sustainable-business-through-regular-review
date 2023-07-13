@@ -1,4 +1,4 @@
-Chapter 6: Maintaining the Rhythm: Strategies for Sustaining Regular Review
+Strategies for Sustaining Regular Review
 ===========================================================================
 
 In this chapter, we will explore strategies for sustaining regular review as an ongoing process in achieving business sustainability.

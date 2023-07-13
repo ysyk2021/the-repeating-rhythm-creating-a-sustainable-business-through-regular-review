@@ -1,4 +1,4 @@
-Chapter 2: Understanding Business Sustainability: Benefits of Sustainable Business Practices
+Benefits of Sustainable Business Practices
 ============================================================================================
 
 In this chapter, we will explore the benefits of sustainable business practices. Operating a sustainable business has numerous benefits for both the company and the wider community.

@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Purpose of the book](chapter-1-1.md)
   - [Importance of regular review in business sustainability](chapter-1-2.md)
 - [Chapter 2: Understanding Business Sustainability](chapter-2.md)
@@ -26,10 +25,5 @@
   - [Adapting to changes](chapter-6-3.md)
 - [Chapter 7: Case Studies](chapter-7.md)
   - [Real-world examples of businesses that have successfully implemented regular review](chapter-7-1.md)
-- [Chapter 8: Conclusion](chapter-8.md)
-  - [Summary of key points](chapter-8-1.md)
-  - [Final thoughts and recommendations](chapter-8-2.md)
-- [Chapter 9: Appendix](chapter-9.md)
-  - [Templates and tools for conducting reviews](chapter-9-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

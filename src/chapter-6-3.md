@@ -1,4 +1,4 @@
-Chapter 6: Maintaining the Rhythm: Adapting to Changes
+Adapting to Changes
 ======================================================
 
 In this chapter, we will explore how businesses can adapt their regular review processes to changing circumstances to remain effective in achieving business sustainability.

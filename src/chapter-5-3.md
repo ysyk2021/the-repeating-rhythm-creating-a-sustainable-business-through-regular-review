@@ -1,4 +1,4 @@
-Chapter 5: Implementing Changes Based on Reviews: Measuring Progress
+Measuring Progress
 ====================================================================
 
 In this chapter, we will explore the importance of measuring progress when implementing changes based on reviews to achieve business sustainability.

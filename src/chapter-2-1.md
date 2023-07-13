@@ -1,4 +1,4 @@
-Chapter 2: Understanding Business Sustainability: Definition of Sustainability
+Definition of Sustainability
 ==============================================================================
 
 In this chapter, we will explore the concept of business sustainability and define what it means for a business to be sustainable.

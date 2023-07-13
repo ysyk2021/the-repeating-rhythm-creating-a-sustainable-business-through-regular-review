@@ -1,4 +1,4 @@
-Chapter 3: The Role of Regular Review in Business Sustainability: Goals and Objectives
+Goals and Objectives
 ======================================================================================
 
 In this chapter, we will explore the importance of regular review in achieving business sustainability through setting goals and objectives.

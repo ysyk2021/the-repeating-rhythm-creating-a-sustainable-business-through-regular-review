@@ -1,4 +1,4 @@
-Chapter 4: Conducting Effective Reviews: Types of Reviews
+Types of Reviews
 =========================================================
 
 In this chapter, we will explore the different types of reviews that businesses can conduct to create sustainable business strategies and achieve long-term success.

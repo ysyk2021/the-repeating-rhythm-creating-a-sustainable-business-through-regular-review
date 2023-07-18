@@ -8,5 +8,4 @@ Through real-world case studies and actionable tips, readers will learn how to o
 
 If you're ready to take your business to the next level, The Repeating Rhythm is an essential resource that will help you achieve your goals and build a thriving enterprise. It's a must-read for anyone looking to create a successful, sustainable business through regular review and improvement.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

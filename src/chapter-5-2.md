@@ -1,4 +1,4 @@
-Chapter: Creating Action Plans
+Creating Action Plans
 ==============================
 
 In this chapter, we will explore the process of creating action plans as a crucial step in leveraging regular reviews to drive sustainability in business. Action plans provide a roadmap for businesses to implement changes, address areas for improvement, and achieve their sustainability goals. Let's delve into the key elements and steps involved in creating effective action plans.

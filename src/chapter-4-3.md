@@ -1,4 +1,4 @@
-Chapter: Analyzing Data
+Analyzing Data
 =======================
 
 In this chapter, we will explore the importance of analyzing data during the regular review process. Effective analysis of relevant data provides valuable insights that drive informed decision-making and enable businesses to create sustainable strategies. This chapter will cover key considerations and strategies for analyzing data in the context of creating a sustainable business.

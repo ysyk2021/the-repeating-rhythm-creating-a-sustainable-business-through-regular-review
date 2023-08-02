@@ -1,4 +1,4 @@
-Chapter: Types of Reviews
+Types of Reviews
 =========================
 
 In this chapter, we will explore the different types of reviews that are essential for creating a sustainable business through regular evaluation and analysis. Reviews play a crucial role in assessing the effectiveness of your business strategies, identifying areas for improvement, and making informed decisions. Let's delve into the key types of reviews that every entrepreneur should incorporate into their business practices.

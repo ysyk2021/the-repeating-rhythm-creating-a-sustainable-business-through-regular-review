@@ -1,4 +1,4 @@
-Chapter: Measuring Progress
+Measuring Progress
 ===========================
 
 In this chapter, we will explore the importance of measuring progress in creating a sustainable business through regular review. Monitoring, evaluating, and quantifying sustainability efforts are essential to track performance, identify areas for improvement, and ensure that the business stays on track. Let's delve into the significance of measuring progress and some key metrics and tools that can be used.

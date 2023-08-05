@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Purpose of the book](chapter-1-1.md)
   - [Importance of regular review in business sustainability](chapter-1-2.md)
 - [Chapter 2: Understanding Business Sustainability](chapter-2.md)
   - [Definition of sustainability](chapter-2-1.md)

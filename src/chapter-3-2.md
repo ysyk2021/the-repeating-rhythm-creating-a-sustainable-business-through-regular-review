@@ -1,9 +1,6 @@
 Goals and Objectives
 =============================
 
-Introduction
-------------
-
 In order to create a sustainable business, it is essential to establish clear goals and objectives. These serve as the foundation for your business strategy and guide your decision-making process. In this chapter, we will explore the importance of setting goals and objectives, and how they contribute to the overall success of your organization.
 
 Defining Goals and Objectives

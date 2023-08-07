@@ -6,8 +6,6 @@ In this chapter, we will explore real-world examples of businesses that have suc
 Example 1: Patagonia
 --------------------
 
-![Patagonia](https://example.com/patagonia.jpg)
-
 **Company Overview:** Patagonia is an outdoor clothing and gear company committed to environmental and social responsibility.
 
 **Regular Review Practices:**
@@ -23,8 +21,6 @@ Example 1: Patagonia
 Example 2: Unilever
 -------------------
 
-![Unilever](https://example.com/unilever.jpg)
-
 **Company Overview:** Unilever is a multinational consumer goods company with a strong commitment to sustainable business practices.
 
 **Regular Review Practices:**
@@ -39,8 +35,6 @@ Example 2: Unilever
 
 Example 3: Interface
 --------------------
-
-![Interface](https://example.com/interface.jpg)
 
 **Company Overview:** Interface is a global modular flooring company committed to achieving sustainability through its "Mission Zero" initiative.
 

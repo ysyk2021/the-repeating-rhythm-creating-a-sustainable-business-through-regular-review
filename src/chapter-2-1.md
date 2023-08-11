@@ -8,17 +8,6 @@ In this chapter, we will explore the concept of sustainability and its significa
 
 Sustainability refers to the ability of a business to meet present needs without compromising the ability of future generations to meet their own needs. It involves balancing economic growth, social responsibility, and environmental stewardship. Sustainable businesses aim to create value not only for shareholders but also for stakeholders, including employees, customers, communities, and the environment.
 
-**Three Pillars of Sustainability**
------------------------------------
-
-Sustainability encompasses three interrelated pillars, often referred to as the triple bottom line:
-
-1. **Economic Sustainability**: This pillar focuses on maintaining long-term economic viability. Businesses should generate profits, invest in research and development, foster innovation, and create economic value. Financial success enables businesses to reinvest in sustainability initiatives, support employee well-being, and contribute to the local economy.
-
-2. **Social Sustainability**: Social sustainability emphasizes the well-being of people and communities. Businesses should prioritize fair labor practices, diversity and inclusion, employee health and safety, ethical sourcing, and community engagement. By fostering positive relationships and contributing to social development, businesses can build trust and maintain a positive reputation.
-
-3. **Environmental Sustainability**: Environmental sustainability aims to minimize negative impacts on the natural environment. Businesses should strive to reduce carbon emissions, conserve resources, promote renewable energy, manage waste responsibly, and adopt sustainable production methods. Protecting the environment ensures long-term availability of resources and reduces ecological harm.
-
 **The Importance of Sustainability in Business**
 ------------------------------------------------
 

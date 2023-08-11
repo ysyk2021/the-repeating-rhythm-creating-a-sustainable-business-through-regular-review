@@ -23,6 +23,5 @@
   - [Overcoming challenges](chapter-6-2.md)
   - [Adapting to changes](chapter-6-3.md)
 - [Chapter 7: Case Studies](chapter-7.md)
-  - [Real-world examples of businesses that have successfully implemented regular review](chapter-7-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

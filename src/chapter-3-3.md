@@ -1,5 +1,3 @@
-Metrics for Measuring Success
-======================================
 
 In this chapter, we will explore the importance of metrics in measuring the success of a sustainable business. Metrics provide valuable insights into the performance and progress of an organization, allowing stakeholders to make informed decisions and track the effectiveness of their strategies. By establishing relevant and meaningful metrics, businesses can identify areas for improvement and drive long-term sustainability.
 

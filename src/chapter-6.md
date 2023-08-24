@@ -1,5 +1,3 @@
-Chapter 6: Maintaining the Rhythm
-=================================
 
 In this chapter, we will explore strategies for sustaining regular review, overcoming challenges, and adapting to changes.
 

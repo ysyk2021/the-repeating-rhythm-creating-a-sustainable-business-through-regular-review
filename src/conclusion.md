@@ -1,4 +1,3 @@
-# Conclusion
 
 In this final chapter, we will summarize the key points of our book "The Repeating Rhythm: Creating a Sustainable Business Through Regular Review" and provide some final thoughts and recommendations.
 

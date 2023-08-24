@@ -1,5 +1,3 @@
-Chapter 9: Appendix
-===================
 
 In this appendix, we provide templates and tools for conducting reviews to help businesses create sustainable strategies and achieve long-term success.
 

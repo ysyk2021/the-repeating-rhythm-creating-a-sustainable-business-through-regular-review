@@ -1,5 +1,3 @@
-Chapter 2: Understanding Business Sustainability
-================================================
 
 In this chapter, we will explore the concept of business sustainability, including its definition, the three pillars of sustainability, and the benefits of sustainable business practices.
 

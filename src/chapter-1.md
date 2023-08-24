@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the book "The Repeating Rhythm: Creating a Sustainable Business Through Regular Review" and explore the importance of regular review in achieving business sustainability.
 

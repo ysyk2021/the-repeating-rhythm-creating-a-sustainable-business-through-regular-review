@@ -1,5 +1,3 @@
-Chapter 7: Case Studies
-=======================
 
 In this chapter, we will explore real-world examples of businesses that have successfully implemented regular review processes to create and maintain sustainable practices. These examples highlight the importance of consistent evaluation, monitoring, and improvement in achieving long-term sustainability goals. Let's delve into how these businesses have embraced regular review as a key driver of their sustainability success.
 

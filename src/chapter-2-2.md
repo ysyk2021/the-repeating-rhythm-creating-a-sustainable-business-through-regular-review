@@ -1,5 +1,3 @@
-The Three Pillars of Sustainability
-============================================
 
 In this chapter, we will explore the concept of sustainability through its three interrelated pillars. Understanding these pillars is crucial for businesses seeking to create a sustainable future through regular review. Let's delve into the economic, social, and environmental dimensions of sustainability known as the triple bottom line.
 
